@@ -4,7 +4,7 @@ Installation instructions
 Installing
 ----------
 
-**Shapash** is intended to work with Python versions 3.9 to 3.12. Installation can be done with pip:
+**Shapash** is intended to work with Python versions 3.9 to 3.13. Installation can be done with pip:
 
 .. code:: bash
 
